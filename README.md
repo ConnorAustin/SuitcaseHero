@@ -15,4 +15,4 @@ Have you ever missed the highs and lows of playing on a claw machine? This is th
 Play as Mr. Hand who wants to pack his suitcase with essential tomatoes and pencils!
 ## </Sales pitch>
 
-![alt-text](https://github.com/ConnorAustin/SuitcaseHero/master/raw/gameplay.gif "Gameplay gif")
+![alt-text](https://github.com/ConnorAustin/SuitcaseHero/raw/master/gameplay.gif "Gameplay gif")
