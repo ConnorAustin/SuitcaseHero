@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Timer.cs">
+    <Files>
+      <File FileName="Assets\Hand.cs" Line="48" Column="7" />
+      <File FileName="Assets\Eater.cs" Line="31" Column="63" />
+      <File FileName="Assets\Timer.cs" Line="31" Column="30" />
+      <File FileName="Assets\Suitcase.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
